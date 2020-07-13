@@ -1,6 +1,6 @@
 
 
-![](https://img.shields.io/static/v1?label=Ruby on Rails&message=Developer&color=red) ![](https://img.shields.io/twitter/url?label=AlefOjeda&style=social&url=https%3A%2F%2Ftwitter.com%2FOjedaAlef)
+![](https://img.shields.io/badge/Ruby%20on%20Rails-Developer-red) ![](https://img.shields.io/twitter/url?label=AlefOjeda&style=social&url=https%3A%2F%2Ftwitter.com%2FOjedaAlef)
 
 # Hey There !
 
