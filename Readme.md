@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Ruby%20on%20Rails-Developer-red) ![](https://img.shields.io/twitter/url?label=AlefOjeda&style=social&url=https%3A%2F%2Ftwitter.com%2FOjedaAlef)
 
-# Hey There !
+# Hey Guys !
 
 And I'm Alef O. de Oliveira, developer always looking for the best, always looking for learning and new challenges!
 My hoby is learning, I'm currently in love with the stack of 3 R's (Rails, ReactJS, Redux).
