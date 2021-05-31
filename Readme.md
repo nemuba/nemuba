@@ -18,5 +18,11 @@ My Stack:
 5. ReactJs
 6. Redux
 7. PLSQL (APEX Oracle) 
+8. Postgres
+9. Mongo DB
+10. Mysql
+11. HTML
+12. CSS
+
 
  
