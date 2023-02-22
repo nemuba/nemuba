@@ -24,5 +24,5 @@ My Stack:
 11. HTML
 12. CSS
 
-
+![Statistics of GitHub](https://github-readme-stats.vercel.app/api?username=nemuba&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
  
